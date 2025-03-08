@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/listcreation/static/css/main.71e188a0.css",
+    "main.js": "/listcreation/static/js/main.fe01c8f8.js",
+    "static/js/453.1291478c.chunk.js": "/listcreation/static/js/453.1291478c.chunk.js",
+    "index.html": "/listcreation/index.html",
+    "main.71e188a0.css.map": "/listcreation/static/css/main.71e188a0.css.map",
+    "main.fe01c8f8.js.map": "/listcreation/static/js/main.fe01c8f8.js.map",
+    "453.1291478c.chunk.js.map": "/listcreation/static/js/453.1291478c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71e188a0.css",
+    "static/js/main.fe01c8f8.js"
+  ]
+}
